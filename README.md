@@ -1,6 +1,6 @@
 ### Hi there I am Wallace Passon. 👋
 
-- 🔭 I’m currently working on front-end
+- 🔭 I’m currently working on to be the best full-stack developer.
 - 🌱 I’m currently learning html, css, javascript, typescript, react, react native and mobile.
 - 🚀 I’m currently study on https://www.rocketseat.com.br/
 
@@ -8,8 +8,8 @@
 ##
 
 <div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=wallacepasson&show_icons=true&theme=tokyonight" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wallacepasson&layout=compact&langs_count=8&theme=tokyonight" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=wallacepasson&show_icons=true&theme=tokyonight" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wallacepasson&layout=compact&langs_count=8&theme=tokyonight" />
 </div>
 
 ##
