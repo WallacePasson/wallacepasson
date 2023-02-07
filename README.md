@@ -2,7 +2,7 @@
 
 <img align="right" alt="Wall-pic" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/50913364?v=4?width=676&height=676">
 
-My name is <a href="https://instagram.com/wallacepasson" target="_blank">Wallace Passon<a/> and I'm studying web developer in <a href="https://www.rocketseat.com.br/" target="_blank">Rocketseat 🚀<a/>
+My name is <a href="https://www.linkedin.com/in/wallacepasson/" target="_blank">Wallace Passon<a/> and I'm studying web developer in <a href="https://www.rocketseat.com.br/" target="_blank">Rocketseat 🚀<a/>
 - 🔭 I’m currently working on to be the best full-stack developer.
 - 🌱 I’m currently learning html, css, javascript, typescript, react, react native and mobile.
 
