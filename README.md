@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-<img align="right" alt="Wall-pic" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/50913364?v=4?width=676&height=676">
+<div>
+  <img align="right" alt="Wall-pic" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/50913364?v=4?width=676&height=676">
+</div>
 
 My name is <a href="https://www.linkedin.com/in/wallacepasson/" target="_blank">Wallace Passon<a/> and I'm studying web developer in <a href="https://www.rocketseat.com.br/" target="_blank">Rocketseat 🚀<a/>
 - 🔭 I’m currently working on to be the best full-stack developer.
@@ -10,8 +12,8 @@ My name is <a href="https://www.linkedin.com/in/wallacepasson/" target="_blank">
 ##
 
 <div>
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=wallacepasson&show_icons=true&theme=tokyonight" />
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wallacepasson&layout=compact&langs_count=8&theme=tokyonight" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=wallacepasson&show_icons=true&theme=tokyonight" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wallacepasson&layout=compact&langs_count=8&theme=tokyonight" />
 </div>
 
 ##
