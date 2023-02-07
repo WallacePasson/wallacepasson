@@ -13,8 +13,8 @@ My name is <a href="https://www.linkedin.com/in/wallacepasson/" target="_blank">
 ##
 
 <div>
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=wallacepasson&show_icons=true&theme=tokyonight" />
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wallacepasson&layout=compact&langs_count=8&theme=tokyonight" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=wallacepasson&show_icons=true&theme=tokyonight" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wallacepasson&layout=compact&langs_count=8&theme=tokyonight" />
 </div>
 
 ##
